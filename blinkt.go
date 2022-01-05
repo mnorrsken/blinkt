@@ -31,7 +31,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/ikester/gpio"
+	"github.com/mnorrsken/gpio"
 )
 
 // DAT is the Data pin for Blinkt
